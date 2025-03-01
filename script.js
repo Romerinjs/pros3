@@ -7,3 +7,9 @@ function greet(name) {
 }
 
 greet("World");
+
+function farewell(name) {
+    console.log("Goodbye, " + name + "!");
+}
+
+farewell("World");
